@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "wdaw",
+      "body": "dwad",
+      "author": "mario",
+      "id": 9
+    },
+    {
+      "title": "Adwad",
+      "body": "awdawd",
+      "author": "mario",
+      "id": 10
+    },
+    {
+      "title": "dawad",
+      "body": "wadwa",
+      "author": "mario",
+      "id": 11
+    },
+    {
+      "title": "awdad",
+      "body": "wadawd",
+      "author": "mario",
+      "id": 12
+    }
+  ]
+}
